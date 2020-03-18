@@ -1,0 +1,146 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+div#header{
+	margin: 0 800px;
+}
+div#header h1{
+	font-family: 'aa';
+	/*font-size: 50px;*/
+	padding-top: 30px;
+}
+div#header img{
+	width: 150px;
+	height: 150px;
+	float: left;
+}
+.clear{
+ 	clear: both;
+ }
+
+ #navbar{
+ 	width: 100%;
+ 	background-color: #4e342E;
+ }
+ .nav_ul{
+ 	padding-left: 50px;
+ }
+#navbar .nav_ul li{
+    list-style: none;
+    float: left;
+}
+#navbar .nav_ul li a{
+	color:#FFF;
+	text-decoration: none;
+	padding: 20px 50px;
+	display: block;
+	text-transform: uppercase;
+	font-family: dd;
+}
+
+#navbar .nav_ul li a:hover, .active{
+	background-color: #5D4037;
+}
+div#slider img{
+	width: 100%;
+	height: 500;
+	object-fit: cover;
+}
+
+div.quote{
+	position: absolute;
+	background-color: rgba(255, 255, 255, 0.5);
+	top: 80%;
+	left: 25%;
+	padding: 30px;
+	font-family: Myanmar3,Yunghkio;
+}
+ #lorem{
+ 	text-align: center;
+ 	font-size: 30px;
+ }
+ 
+div#coffee{
+	margin: 0 500px;
+}
+.coff_ul li{
+ 	width: 300px;
+ 	height:300px;
+ 	float: left;
+
+ }
+.coff_ul li{
+	list-style: none;
+	float: left;
+}
+.hr{
+	
+	margin-right: 300px;
+	margin-left: 300px;
+
+}
+
+#our_shop .ourShop li img{
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
+
+.ourShop li{
+	width: 300px;
+ 	height:300px;
+ 	float: left;
+
+	list-style: none;
+	float: left;
+}
+
+div#our_shop{
+	margin: 0 300px;
+}
+
+
+div.today img{
+	
+	height: 300px;
+	width: 450px;
+	margin-left: 400px;
+	float: left;
+}
+.to_spical .tospical1 img{
+	height: 100px;
+	width:200px;
+	margin-left: 100px;
+}
+
+#img1{
+	height: 100px;
+	width: 100px;
+	margin-top: 200px;
+	margin-left:-200px;
+}
+#img2{
+	margin-left: -100px;
+	height: 100px;
+	width: 100px;
+	margin-top: 200px;
+}
+
+
+div.daily img{
+	
+    height: 200px;
+	width: 200px;
+	margin-left: 600px;
+	float: left;
+}
+
+.menu .daily1{
+	margin-left: 1000px;
+	padding: 5px;
+	font-size: 15px;
+}
+
+
+
